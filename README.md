@@ -1,4 +1,4 @@
-# Peer-graded-Assignment-Prediction-Assignment-Writeup
+# Practical_Machine_Learning_Coursera
 
 Practical_Machine_Learning_Coursera
 
